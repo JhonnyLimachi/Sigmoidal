@@ -10,6 +10,7 @@ Python é reconhecido por sua versatilidade, suportando não apenas análise de 
 
 Em suma, a combinação de Python com suas bibliotecas especializadas torna a análise de dados uma tarefa poderosa e eficiente, capacitando os profissionais a extrair insights valiosos e tomar decisões estratégicas com base em evidências sólidas.
 
+"Python é uma linguagem de programação poderosa e versátil, que se destaca pela sua simplicidade e eficácia em lidar com uma ampla gama de problemas computacionais."
 
 
 <div style="display: inline_block"><br>
