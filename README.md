@@ -8,7 +8,6 @@ A análise de dados com Python é uma prática indispensável em diversos campos
 
 Python é reconhecido por sua versatilidade, suportando não apenas análise de dados, mas também o desenvolvimento de modelos preditivos e análises estatísticas avançadas. Bibliotecas como scikit-learn oferecem uma ampla gama de algoritmos de aprendizado de máquina prontos para uso, tornando a criação de modelos de regressão, classificação e clustering acessível a profissionais de análise de dados. Essas capacidades possibilitam a construção de soluções sofisticadas para prever tendências, identificar padrões e embasar decisões informadas com base nos dados disponíveis.
 
-Em suma, a combinação de Python com suas bibliotecas especializadas torna a análise de dados uma tarefa poderosa e eficiente, capacitando os profissionais a extrair insights valiosos e tomar decisões estratégicas com base em evidências sólidas.
 
 "Python é uma linguagem de programação poderosa e versátil, que se destaca pela sua simplicidade e eficácia em lidar com uma ampla gama de problemas computacionais."
 
